@@ -1,1 +1,2 @@
-openai_key='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'
+openai_key='####'
+#Enter Your own key of open AI Here In Order to run Langchain Smoothly 
